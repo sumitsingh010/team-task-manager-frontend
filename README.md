@@ -7,6 +7,12 @@ A modern, responsive dashboard built with **React.js** and **Tailwind CSS** for 
 - **Frontend**: [https://team-task-manager-frontend-seven.vercel.app](https://team-task-manager-frontend-seven.vercel.app)
 - **Backend API**: [https://team-task-manager-backend-l5zf.onrender.com](https://team-task-manager-backend-l5zf.onrender.com)
 
+## 🎥 Demo Video
+
+[![Watch the Demo](https://drive.google.com/thumbnail?id=1Uv8YDczcg9fEdhRy2fFr1m2e1Ddykz9i&sz=w1280)](https://drive.google.com/file/d/1Uv8YDczcg9fEdhRy2fFr1m2e1Ddykz9i/view?usp=sharing)
+
+> Click the image above to watch the full demo walkthrough.
+
 ## 🛠 Tech Stack
 
 - **Framework**: React.js (Vite)
